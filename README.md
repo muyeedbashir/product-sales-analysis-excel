@@ -61,7 +61,8 @@ To analyze product sales data and understand basic data cleaning and lookup tech
 ---
 
 ## 📂 Files
-- product_sales_analysis.xlsx  
+- [product_sales_analysis.xlsx](https://github.com/muyeedbashir/product-sales-analysis-excel/blob/main/product_sales%20project.xlsx)
+- 
 
 ---
 
